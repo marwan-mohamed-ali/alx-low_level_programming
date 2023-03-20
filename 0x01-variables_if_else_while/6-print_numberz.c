@@ -10,8 +10,9 @@
 int main(void)
 {
 	int N = 0;
+
 	while (N <= 9)
-{	
+{
 	putchar(N + '0');
 	N++;
 }
