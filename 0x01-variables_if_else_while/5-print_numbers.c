@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  * Description: A C program that preints  prints all single digit numbers.
  *
