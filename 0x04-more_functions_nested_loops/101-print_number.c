@@ -18,5 +18,5 @@ void print_number(int n)
 	{
 		print_number(i / 10);
 	}
-	_putcha
+	_putchar(i % 10 + '0');
 }
